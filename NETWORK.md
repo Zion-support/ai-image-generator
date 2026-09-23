@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Image Generator
 
-**ai-image-generator** is part of the Zion Tech Group app network (630+ apps).
+AI-powered image creation and editing.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Content & Marketing](https://github.com/Zion-support/zion-network/blob/main/network/content-marketing.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [ai-image-editor](https://github.com/Zion-support/ai-image-editor) · [ai-avatar-generator](https://github.com/Zion-support/ai-avatar-generator) · [zion-content-studio](https://github.com/Zion-support/zion-content-studio) · [zion-ai-video-studio](https://github.com/Zion-support/zion-ai-video-studio)
 
-## Related apps
-- [ai-image-editor](https://github.com/Zion-support/ai-image-editor) — AI image editing and enhancement
-- [ai-avatar-generator](https://github.com/Zion-support/ai-avatar-generator) — 3D avatars and digital identities
-- [zion-content-studio](https://github.com/Zion-support/zion-content-studio) — Content studio
-- [ai-deepfake-detector](https://github.com/Zion-support/ai-deepfake-detector) — Detect AI-generated deepfakes
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
